@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Rechner</string>
+    <string name="myResult">Result</string>
+    <string name="my_sum">SUM</string>
+    <string name="subtraction">SUB</string>
+    <string name="multiplication">MUL</string>
+    <string name="Division">DIV</string>
+</resources>
